@@ -1,0 +1,4 @@
+after step 
+step 1: install tailwind css - https://tailwindcss.com/docs/guides/nextjs 
+and follow steps 2,3,4.
+
