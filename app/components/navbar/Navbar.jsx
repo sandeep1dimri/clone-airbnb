@@ -1,5 +1,7 @@
 import Container from '../Container';
 import Logo from './Logo';
+import Search from './Search';
+import UserMenu from './UserMenu';
 
 function Navbar(){
     return (
@@ -16,6 +18,8 @@ function Navbar(){
                     md:gap-0
                     '>
                         <Logo> </Logo>
+                        <Search></Search>
+                        <UserMenu />
 
                     </div>
 
